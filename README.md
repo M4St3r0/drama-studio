@@ -15,7 +15,7 @@ On your PC, with your own AI keys.
 <a href="#-plans"><img src="https://img.shields.io/badge/Available%20soon-Windows%2010%20and%2011-F4641A?style=for-the-badge&labelColor=D42A22" alt="Available soon for Windows 10 and 11"></a>
 <a href="https://flamecode.app"><img src="https://img.shields.io/badge/flamecode.app-2B2724?style=for-the-badge" alt="Website: flamecode.app"></a>
 
-<sub><b>Available soon</b> &nbsp;·&nbsp; Windows 10 and 11 (64-bit) &nbsp;·&nbsp; 7-day free trial, no card &nbsp;·&nbsp; Your own AI keys &nbsp;·&nbsp; English · 中文 · ខ្មែរ</sub>
+<sub>Windows 10 and 11 (64-bit) &nbsp;·&nbsp; 7-day free trial, no card &nbsp;·&nbsp; Your own AI keys &nbsp;·&nbsp; English&nbsp;·&nbsp;中&#8288;文&nbsp;·&nbsp;ខ្មែរ</sub>
 
 <br><br>
 
